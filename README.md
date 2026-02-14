@@ -23,10 +23,8 @@ maximizar el margen a partir de modelos predictivos.
 - Memoria del TFM.
 
 ---
-
 ## 🎥 Vídeo de la defensa
-👉 [https://ENLACE-AL-VIDEO](https://drive.google.com/file/d/1HCyKhGtgUjOQCaqoiO49EbcBVKoGyNcI/view?usp=drive_link
-Presentación_Grupo_G_De la Predicción a la decisión.mp4 - Google Drive
+👉 https://drive.google.com/file/d/1HCyKhGtgUjOQCaqoiO49EbcBVKoGyNcI/view?usp=drive_link
  )
 
 ---
