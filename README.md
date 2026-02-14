@@ -19,8 +19,13 @@ maximizar el margen a partir de modelos predictivos.
 
 ## 💻 Contenido del repositorio
 - Código fuente del proyecto.
+- Ficheros CSV empleados para el desarrollo del Trabajo.
 - Video presentacion del proyecto.
 - Memoria del TFM.
+
+---
+## Ficheros CSV
+👉https://drive.google.com/drive/folders/1CJecfNnqBF_rmzCMjmvbP-YD1kbbZpCy
 
 ---
 ## 🎥 Vídeo de la defensa
